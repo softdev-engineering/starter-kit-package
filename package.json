@@ -1,6 +1,6 @@
 {
   "name": "@softdev-engineering/starter-kit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "bin": {
     "softdev-starter-kit": "bin/install.mjs"
