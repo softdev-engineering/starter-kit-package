@@ -1,0 +1,13 @@
+{
+  "name": "@softdev-engineering/starter-kit",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "softdev-starter-kit": "bin/install.mjs"
+  },
+  "dependencies": {
+    "ora": "^6.1.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
