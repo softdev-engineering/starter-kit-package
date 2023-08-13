@@ -9,3 +9,4 @@ npm publish --access public
 
 # Push the changes to the repository
 git push
+git push --tags
